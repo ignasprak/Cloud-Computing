@@ -8,16 +8,15 @@
     <link rel="stylesheet" href="css/font-awesome/all.min.css" crossorigin="anonymous" />
     <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="css/styles.css" />
-    <title>West Ham Fanpage</title>
+    <title>Todo App</title>
 </head>
 <body>
+	
     <div id="root"></div>
-    <h1 style="text-align: center;"> My West Ham</h1>
     <script src="js/react.production.min.js"></script>
     <script src="js/react-dom.production.min.js"></script>
     <script src="js/react-bootstrap.js"></script>
     <script src="js/babel.min.js"></script>
     <script type="text/babel" src="js/app.js"></script>
-    <img src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt7bd724cecd355ec5/64abbf6651149e4b59e4d575/West_Ham_2023-24_kit_.png" alt="West Ham Photo">
 </body>
 </html>
